@@ -10,10 +10,8 @@ namespace HW
     {
         static void Main(string[] args)
         {
-            if ( 7899 > 86)
-            {
-                Console.WriteLine("NO");
-            }
+            if (8765 > 865)
+            { System.Console.WriteLine("PRESS F"); }
         }
     }
 }
